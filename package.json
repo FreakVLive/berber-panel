@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/FreakVLive/berber-panel#readme",
   "dependencies": {
-    "express": "^5.1.0"
-  },
-  "devDependencies": {}
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "twilio": "^5.10.6"
+  }
 }
